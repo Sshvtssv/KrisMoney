@@ -1,10 +1,3 @@
-//
-//  AppDelegate.swift
-//  KrisMoney
-//
-//  Created by Kristina on 03/09/2022.
-//
-
 import UIKit
 
 @main
