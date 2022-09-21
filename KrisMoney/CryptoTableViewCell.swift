@@ -1,10 +1,3 @@
-//
-//  CryptoTableViewCell.swift
-//  KrisMoney
-//
-//  Created by Kristina on 21/09/2022.
-//
-
 import UIKit
 
 struct CryptoTableViewCellViewModel {
